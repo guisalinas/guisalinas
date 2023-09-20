@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <li>🙌 Este es mi repositorio remoto, ¡Bienvenidx!</li>
   <li>💜 Le tengo mucho cariño porque aquí está parte de mi camino en el mundo de la programación.</li>
   <li>🚀 Cada proyecto, aunque pequeño, me muestra en dónde estaba antes, dónde estoy ahora y cuál es mi potencial: ¡Voy por él!</li>
-  <li>👯‍♀️ También me recuerda a las personas con las que me crucé en cada capacitación y comunidad; nos ayudamos y crecemos juntos!</li>
+  <li>👯‍♀️ También me recuerda a las personas con las que me crucé y compartí en cada capacitación y comunidad, hasta el día de hoy🫶</li>
 </ul>
 
 Si querés darles un vistaso, estos son mis proyectos favoritos...por el momento:
