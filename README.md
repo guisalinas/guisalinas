@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 Si querés darles un vistaso, estos son mis proyectos favoritos...por el momento:
 <ul>
   <li>https://github.com/guisalinas/Salinas.Guillermina.AP9.git <i>->API Homebanking (Backend)</i></li>
-  <li>https://github.com/guisalinas/amazing-events-salinas.git <i>->Productora de Eventos (Frontend): <a href="https://guisalinas.github.io/amazing-events-salinas/">¡Visitala aqui!</a></i></li>
+  <li>https://github.com/guisalinas/amazing-events-salinas.git <i>->Productora de Eventos (Frontend): <a href="https://guisalinas.github.io/amazing-events-salinas/" target=”_blank”>¡Visitala aqui!</a></i></li>
 </ul>
 
 Con gusto recibiré tu feedback constructivo en <a href="mailto:guillerminasalinas.ok@gmail.com">guillerminasalinas.ok@gmail.com</a>  
